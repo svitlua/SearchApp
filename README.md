@@ -3,7 +3,7 @@ React-Native application for searching images online
 * Uses Bing search API
 * Shows loading screen while data is fetched from internal memory
 * Shows progress bar on images while they are loading
-* Error handling when search input is epmty
+* Error handling when search input is empty
 * Error handling when search result is empty
 
 ## Bing Search API:
