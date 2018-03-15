@@ -1,6 +1,10 @@
 # SearchApp
 React-Native application for searching images online
-<br/>Application uses Bing search API
+* Uses Bing search API
+* Shows loading screen while data is fetched from internal memory
+* Shows progress bar on images while they are loading
+* Error handling when search input is epmty
+* Error handling when search result is empty
 
 ## Bing Search API:
 https://azure.microsoft.com/en-us/try/cognitive-services/?api=bing-web-search-api
