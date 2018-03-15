@@ -1,8 +1,8 @@
 # SearchApp
 React-Native application for searching images online
 
-## Bing Image Search Api:
-
+## Using Bing Search Api:
+https://azure.microsoft.com/en-us/try/cognitive-services/?api=bing-web-search-api
 
 ## Aplication file structure:
  -- src/  
