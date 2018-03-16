@@ -23,14 +23,7 @@ class App extends React.Component{
       searching: true
     });
   }
-blablabla(){
-  const a1=1;
-  const a3=1;
-  const a2=1;
 
-  const a4=1;
-  return a4;
-}
   unsetSearch =()=>{
     this.setState({
       colNum: 1,
